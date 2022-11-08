@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
- <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5822b4&labelColor=991eeb" alt="License"> 
-</p>
-
-<p align="center">
   <img alt="" src=".github/logo-plane.svg" width="10%">
 </p>
 
@@ -41,9 +37,7 @@ Em construção
 
 Figma: https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community)
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
