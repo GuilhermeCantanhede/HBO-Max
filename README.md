@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Em construção
+Clone da Stream de Tv "HBO-Max"
 
 ## 🎨 Inspiração:
 
